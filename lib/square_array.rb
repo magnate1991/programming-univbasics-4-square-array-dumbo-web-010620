@@ -11,7 +11,7 @@ end
  
 new_array = [1,2,3]
  
-square_array(new_array)
+square_array(array)
 
 
 
