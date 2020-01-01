@@ -6,6 +6,7 @@ def square_array(array)
     new-array << array[counter] ** 2
     couneter += 1
    new_array
+ end
 end
 
 
